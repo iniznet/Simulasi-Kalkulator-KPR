@@ -1,0 +1,2 @@
+<?php
+// Diam itu emas
